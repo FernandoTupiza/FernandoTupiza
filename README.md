@@ -1,4 +1,6 @@
 - 👋 Hola soy @FernandoTupiza
+- ![image](https://user-images.githubusercontent.com/105765407/171228473-0026663c-5aa0-4e2f-bd45-8c496b5e5002.png)
+
 - 👀 Me interesa la tecnologia 
 - 🌱 Actualmente estoy aprendiendo Laravel que me permite realziar paginas we de forma eficiente
 - 💞️ Estoy potenciando mi conocimiento
